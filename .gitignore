@@ -36,3 +36,7 @@ bin/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Diversos
+.idea
+java-estudos-2027.iml
