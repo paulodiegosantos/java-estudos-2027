@@ -38,5 +38,5 @@ bin/
 Thumbs.db
 
 # Diversos
-.idea
-java-estudos-2027.iml
+.idea/
+*.iml
